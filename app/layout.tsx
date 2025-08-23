@@ -1,21 +1,10 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
 import "@fontsource/aileron";
 import "./globals.css";
 import { ThemeProvider } from "@/components/theme-provider";
 import Header from "./components/header";
 import { TailwindIndicator } from "./components/tailwind-indicator";
 import Footer from "./components/footer";
-
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
-});
-
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
-});
 
 export const metadata: Metadata = {
 
