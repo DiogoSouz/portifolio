@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #676767;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        stroke: url(#Gradiente_sem_nome_4-2);
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        fill: none;
+      }
+
+      .cls-2, .cls-4, .cls-5, .cls-7 {
+        stroke-width: 2.42px;
+      }
+
+      .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-9 {
+        fill: #fbfbfb;
+      }
+
+      .cls-10 {
+        fill: #eaeaea;
+      }
+
+      .cls-4 {
+        stroke: #cac9c9;
+      }
+
+      .cls-5 {
+        stroke: url(#Gradiente_sem_nome_4-3);
+      }
+
+      .cls-11 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-12 {
+        opacity: .5;
+      }
+
+      .cls-6 {
+        stroke: url(#Gradiente_sem_nome_4);
+        stroke-miterlimit: 4;
+        stroke-width: 2.42px;
+      }
+
+      .cls-7 {
+        stroke: url(#Gradiente_sem_nome_4-4);
+      }
+    </style>
+    <linearGradient id="Gradiente_sem_nome_4" data-name="Gradiente sem nome 4" x1="851.22" y1="1292.1" x2="296.68" y2="1292.1" gradientTransform="translate(-358.96 33.07) rotate(-45)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#cac9c9" stop-opacity="0"/>
+      <stop offset=".21" stop-color="#cac9c9"/>
+      <stop offset=".79" stop-color="#cac9c9"/>
+      <stop offset="1" stop-color="#cac9c9" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_4-2" data-name="Gradiente sem nome 4" x1="1155.74" y1="543.67" x2="763.34" y2="543.67" gradientTransform="translate(0 1082) scale(1 -1)" xlink:href="#Gradiente_sem_nome_4"/>
+    <linearGradient id="Gradiente_sem_nome_4-3" data-name="Gradiente sem nome 4" x1="958.67" y1="738.33" x2="958.67" y2="345.92" gradientTransform="translate(0 1082) scale(1 -1)" xlink:href="#Gradiente_sem_nome_4"/>
+    <linearGradient id="Gradiente_sem_nome_4-4" data-name="Gradiente sem nome 4" x1="763.45" y1="737.19" x2="1155.57" y2="345.07" gradientTransform="translate(0 1082) scale(1 -1)" xlink:href="#Gradiente_sem_nome_4"/>
+    <clipPath id="clippath">
+      <rect class="cls-3" x="940.53" y="520.19" width="38.69" height="38.69"/>
+    </clipPath>
+  </defs>
+  <rect class="cls-10" x="0" width="1920" height="1080" rx="3" ry="3"/>
+  <g class="cls-12">
+    <g class="cls-12">
+      <path class="cls-9" d="M959.88,676.16c-75.45,0-136.62-61.17-136.62-136.62s61.17-136.62,136.62-136.62,136.62,61.17,136.62,136.62-61.17,136.62-136.62,136.62Z"/>
+      <path class="cls-4" d="M959.88,676.16c-75.45,0-136.62-61.17-136.62-136.62s61.17-136.62,136.62-136.62,136.62,61.17,136.62,136.62-61.17,136.62-136.62,136.62Z"/>
+    </g>
+    <path class="cls-6" d="M765.16,736.25l391.44-391.44"/>
+    <path class="cls-2" d="M764.02,538.33h391.73"/>
+    <path class="cls-5" d="M958.67,735.4v-391.73"/>
+    <path class="cls-7" d="M1154.89,736.25l-391.44-391.44"/>
+    <path class="cls-8" d="M959.88,596.36c-31.38,0-56.83-25.44-56.83-56.82s25.44-56.83,56.83-56.83,56.82,25.44,56.82,56.83-25.44,56.82-56.82,56.82Z"/>
+    <g class="cls-11">
+      <path class="cls-1" d="M975.6,526.24h-31.43v16.18l3.55-3.55.53-.53h9.07l.07-.07,8.46-8.46h2.57l7.18,7.18v-10.74h0ZM959.88,540.89l3.7,3.7,1.28,1.28-2.57,2.57-1.28-1.28-5.2-5.2h-6.07l-5.51,5.51-.07.07v2.88c0,1.34,1.08,2.42,2.42,2.42h26.6c1.34,0,2.42-1.08,2.42-2.42h0v-8.32l-8.46-8.46-7.18,7.18-.07.07h0ZM940.53,546.33v4.09c0,3.34,2.71,6.04,6.05,6.04h26.6c3.34,0,6.04-2.71,6.04-6.04h0v-7.11l1.36-1.35-1.28-1.28-.07-.07v-17.99h-38.69v23.43l-.15.15.15.15h0Z"/>
+    </g>
+    <path class="cls-4" d="M959.88,596.36c-31.38,0-56.83-25.44-56.83-56.82s25.44-56.83,56.83-56.83,56.82,25.44,56.82,56.83-25.44,56.82-56.82,56.82Z"/>
+  </g>
+</svg>
