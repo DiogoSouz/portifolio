@@ -1,3 +1,4 @@
+import { Link } from "lucide-react";
 import Image from "next/image";
 
 export default function NotFound() {
@@ -8,9 +9,9 @@ export default function NotFound() {
         <p className="text-lg text-gray-600 mt-2">
             Ops! O destino que você procura não existe.
         </p>
-        <a href="/" className="mt-4 text-purple-script hover:underline hover:scale-125 transition-all">
+        <Link href="/" className="mt-4 text-purple-script hover:underline hover:scale-125 transition-all">
           Voltar Para o Inicio
-        </a>
+        </Link>
       </main>
     );
   }

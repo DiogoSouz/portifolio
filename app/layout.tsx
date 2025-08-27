@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "@fontsource/aileron";
 import "./globals.css";
 import { ThemeProvider } from "@/components/theme-provider";
-import Header from "./components/header";
 import { TailwindIndicator } from "./components/tailwind-indicator";
 import Footer from "./components/footer";
+import Header from "./components/header";
 
 export const metadata: Metadata = {
 

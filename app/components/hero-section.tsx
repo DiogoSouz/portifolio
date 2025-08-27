@@ -17,7 +17,7 @@ export default function HeroSection() {
             />
       </div>
 
-      <div className="relative z-10 ml-auto mr-8 sm:mr-12 lg:mr-16 max-w-2xl mb-8 text-beige-serif">
+      <div className="relative z-10 ml-auto mr-8 sm:mr-12 lg:mr-16 max-w-2xl mb-8 text-black-sans">
         <h1 className="text-4xl sm:text-6xl lg:text-8xl font-bold font-mono tracking-tight text-right">
           <span className="block">Forma.</span>
           <span className="block">Função.</span>

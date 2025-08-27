@@ -1,7 +1,10 @@
+"use client"
+
 import * as React from "react"
 import {
   ChevronLeftIcon,
   ChevronRightIcon,
+  Link,
   MoreHorizontalIcon,
 } from "lucide-react"
 
